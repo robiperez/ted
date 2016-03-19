@@ -141,3 +141,21 @@ body {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 }
+
+.big {
+
+  font-size: 50px
+}
+
+.ted {
+
+ height: 60px;
+ width: 160px; 
+ margin-left: 5vh;
+ margin-top: 2vh;
+}
+
+.nav {
+
+  margin-right: 32vh;
+}
