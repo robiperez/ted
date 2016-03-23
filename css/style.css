@@ -186,7 +186,11 @@ body {
 
 .faq {
   height: 100vh !important;
-  background: #171716;
+  background-image:url('../assets/images/faqback.jpg');
+  background-position: center;
+  -webkit-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   color: white;
   display: flex;
   -webkit-flex-wrap: wrap;
